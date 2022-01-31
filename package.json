@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "nodemon": "^2.0.15",
+    "puppeteer": "^13.1.2"
+  },
+  "name": "scrapmoviesdata",
+  "version": "1.0.0",
+  "description": "Movie Data Scraper",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
